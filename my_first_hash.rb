@@ -1,6 +1,6 @@
 def my_hash
-my_hash = {"name" => "Anika", "city" => "New York", "gender", "female"}
- end
+  my_hash = {"name" => "Anika", "city" => "New York", "gender", "female"}
+end
 
 
 def shipping_manifest
